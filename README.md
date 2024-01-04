@@ -1,5 +1,5 @@
 
-### Hi, 👋 I'm Taufan
+### 👋 Hi, I'm Taufan
 ### 💻 I'm a full stack developer
 
 <!--
