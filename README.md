@@ -8,7 +8,7 @@ I'm a full stack developer
 
 * 🌍  I'm based in Jember, East Java, Indonesia
 * 🖥️  See my portfolio at [here](http://cakfan.github.io)
-* 🧠  I'm learning Next.js, Nestjs and Golang
+* 🧠  I'm learning Android Studio, Next.js, Nestjs and Golang
 * 🤝  I'm open to collaborating on interesting project
 
 ### Skills
